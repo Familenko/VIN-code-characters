@@ -27,7 +27,7 @@ The trained model was evaluated on a separate validation dataset. The achieved a
 
 Usage Instructions
 
-Clone the project repository: 
+Clone the project repository: https://github.com/Familenko/VIN-code-characters.git or gh repo clone Familenko/VIN-code-characters
 
 Build conteiner: docker build -t my_app .
 
